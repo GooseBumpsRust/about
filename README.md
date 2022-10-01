@@ -6,7 +6,7 @@ We are comparing a syntax in Python with Rust.We will divide the information in 
 
 After that we will provide a "challenge", that would contain an easy task that could be immediately  solved and checked with build-in compiler.To inspire and keep active users, we will use NFT-banches as a reward
 
-## Architekture
+## Architecture
 
 <img width="586" alt="image" src="https://user-images.githubusercontent.com/30118461/193402439-704eede7-05b3-4c6d-a763-5cb7050df9ff.png">
 
