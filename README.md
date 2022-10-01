@@ -18,12 +18,6 @@ After that we will provide a "challenge", that would contain an easy task that c
 
 ```
 
-The variable `git_desc` serves as a basis for the AI to generate a new description text
-
-- Generating new GitHub Token: https://github.com/settings/tokens/new
-- GitHub Ignore Templates: https://github.com/github/gitignore
-- GitHub License Templates: https://docs.github.com/en/rest/reference/licenses
-
 ## Starting
 
 ```bash
